@@ -1,0 +1,18 @@
+Work Log for Thomas Steinholz
+=============================
+
+Task: Sept 29th Update
+Sept. 27th - 3 hours
+Sept. 38th - 2 hours
+
+Task: October 6th Update
+Oct 4th - 2 hours
+Oct 6th - 1 hour
+
+Task: Investigate integrating a nice calendar in web site with existing google account cntrlmdlpta.
+      http://arshaw.com/fullcalendar/
+
+Task: Upgrade to bootstrap 3, optimize for mobile
+
+Task: Add bootstrap theme
+
