@@ -9,6 +9,8 @@ Task: October 6th Update
 Oct 4th - 2 hours
 Oct 6th - 1 hour
 
+Task: Add accordian groups to _minutes.
+
 Task: Investigate integrating a nice calendar in web site with existing google account cntrlmdlpta.
       http://arshaw.com/fullcalendar/
 
