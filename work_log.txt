@@ -28,7 +28,9 @@ Oct 12th - 4 hour
 *Prepared for bootstrap upgrade to 3.0
 
 Task: October 20th Update
-
+Oct 19th - 1 hour
+*Updated Calender Dates
+*Updated Voulenters Page
 
 Task: October 27th Update
 
