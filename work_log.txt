@@ -61,8 +61,9 @@ January 10th - 1 hour
 * Updated home page.
 
 Task: February 9th Update
-February 8th - 1 hour
+February 8th - 2 hours
 * Updated the Calendar
+* Updated the Contacts
 
 Future Tasks
 ============
