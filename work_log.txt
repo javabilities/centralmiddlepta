@@ -80,6 +80,11 @@ Task: March 30th Update
 March 30th - 2 hours
 * Updated Calender
 
+Task: April 27th Update
+* Updated Calender
+* Updated Homepage
+* Patched Firefox & IE bugs
+
 Future Tasks
 ============
 
