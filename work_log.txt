@@ -81,9 +81,17 @@ March 30th - 2 hours
 * Updated Calender
 
 Task: April 27th Update
+April 27th - 1 hour
 * Updated Calender
 * Updated Homepage
 * Patched Firefox & IE bugs
+
+Task: May 11th update
+May 11th - 2 hours
+* May Minutes
+* March Minutes
+* Updated Calender
+
 
 Future Tasks
 ============
