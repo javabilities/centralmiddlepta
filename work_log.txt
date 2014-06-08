@@ -3,36 +3,34 @@ Work Log for Thomas Steinholz
 
 Task: Sept 29th Update
 Sept. 27th - 3 hours
-Sept. 38th - 2 hours
-*Added a Facebook Like button
-*Added Calender Dates
-*Added Volunteer events
-*Added PTSA Minutes
-*Added a Donation button for future uses
-*Fixed bugs
+Sept. 28th - 2 hours
+* Added a Facebook Like button
+* Added Calender Dates
+* Added Volunteer events
+* Added PTSA Minutes
+* Added a Donation button for future uses
+* Fixed bugs
 
 Task: October 6th Update
 Oct 4th - 2 hours
 Oct 6th - 1 hour
-*Corrected CAT South tour date on the calendar page
-*Added Oct 10th PTSA meeting to calendar
-*Added Book Fair signupgenius text and link to volunteer page
-*Added facebook like us to front page
-*Added document to join PTSA
-*Added Favicon
+* Corrected CAT South tour date on the calendar page
+* Added Oct 10th PTSA meeting to calendar
+* Added Book Fair signupgenius text and link to volunteer page
+* Added facebook like us to front page
+* Added document to join PTSA
+* Added Favicon
 
 Task: October 13th Update
 Oct 12th - 4 hour
-*Updated Calender Dates
-*Changed IDE
-*Prepared for bootstrap upgrade to 3.0
+* Updated Calender Dates
+* Changed IDE
+* Prepared for bootstrap upgrade to 3.0
 
 Task: October 20th Update
 Oct 19th - 1 hour
-*Updated Calender Dates
-*Updated Voulenters Page
-
-Task: October 27th Update
+* Updated Calender Dates
+* Updated Volunteers Page
 
 Task: November 3rd Update
 Nov 1st - 1 hour
